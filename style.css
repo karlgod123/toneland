@@ -178,8 +178,8 @@ background-clip: text;
 }
 /* для фото размер */
 .trending .games .block img {
-    height: 200px;
-    width: 250px;
+    height: 100px;
+    width: 150px;
 }
 
 .trending .games span {
