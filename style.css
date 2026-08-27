@@ -177,7 +177,7 @@ background-clip: text;
     padding: 50px 0;
 }
 /* для фото размер */
-.trending .games .block img {
+.trending .games img {
     height: 100px;
     width: 150px;
 }
